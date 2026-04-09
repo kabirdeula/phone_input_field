@@ -1,7 +1,6 @@
 name: phone_input_field
 description: A Flutter package for international phone number input with country selection. Features a country picker dialog with search and customizable phone input field.
 version: 0.0.1
-publish_to: "https://pub.dev"
 
 homepage: https://github.com/kabirdeula/phone_input_field
 repository: https://github.com/kabirdeula/phone_input_field
