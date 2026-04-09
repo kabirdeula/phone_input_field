@@ -1,5 +1,4 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library phone_input_field;
+
+export 'src/models/country_model.dart';
+export 'src/widgets/international_phone_input_field.dart';
